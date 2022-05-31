@@ -1,0 +1,16 @@
+body {
+    background-image:linear-gradient( to top,#6663e8, #b067ec);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+#nabin {
+    position: absolute;
+    left: -10%;
+    top:14%;
+}
+#girl {
+    position: relative;
+    left: -10%;
+    overflow: hidden;
+}
